@@ -1,4 +1,3 @@
-// Sample pizza order data
 const pizzaOrdersData = [
   {
     orderId: "PZA001",
@@ -6,7 +5,7 @@ const pizzaOrdersData = [
     pizzaType: "Margherita",
     quantity: 2,
     orderDate: "2024-05-20 14:30",
-    status: "Delivered"
+    status: "Delivered",
   },
   {
     orderId: "PZA002",
@@ -14,7 +13,7 @@ const pizzaOrdersData = [
     pizzaType: "Pepperoni",
     quantity: 1,
     orderDate: "2024-05-21 18:15",
-    status: "Out for Delivery"
+    status: "Out for Delivery",
   },
   {
     orderId: "PZA003",
@@ -22,7 +21,7 @@ const pizzaOrdersData = [
     pizzaType: "Veggie Supreme",
     quantity: 3,
     orderDate: "2024-05-22 12:45",
-    status: "Preparing"
+    status: "Preparing",
   },
   {
     orderId: "PZA004",
@@ -30,7 +29,7 @@ const pizzaOrdersData = [
     pizzaType: "BBQ Chicken",
     quantity: 2,
     orderDate: "2024-05-22 19:20",
-    status: "Pending"
+    status: "Pending",
   },
   {
     orderId: "PZA005",
@@ -38,7 +37,7 @@ const pizzaOrdersData = [
     pizzaType: "Hawaiian",
     quantity: 1,
     orderDate: "2024-05-19 20:10",
-    status: "Delivered"
+    status: "Delivered",
   },
   {
     orderId: "PZA006",
@@ -46,7 +45,7 @@ const pizzaOrdersData = [
     pizzaType: "Meat Lovers",
     quantity: 2,
     orderDate: "2024-05-23 13:25",
-    status: "Cancelled"
+    status: "Cancelled",
   },
   {
     orderId: "PZA007",
@@ -54,7 +53,7 @@ const pizzaOrdersData = [
     pizzaType: "Buffalo Chicken",
     quantity: 1,
     orderDate: "2024-05-23 17:40",
-    status: "Pending"
+    status: "Pending",
   },
   {
     orderId: "PZA008",
@@ -62,7 +61,7 @@ const pizzaOrdersData = [
     pizzaType: "Cheese",
     quantity: 3,
     orderDate: "2024-05-24 11:05",
-    status: "Preparing"
+    status: "Preparing",
   },
   {
     orderId: "PZA009",
@@ -70,7 +69,7 @@ const pizzaOrdersData = [
     pizzaType: "Spinach & Feta",
     quantity: 1,
     orderDate: "2024-05-24 12:35",
-    status: "Pending"
+    status: "Pending",
   },
   {
     orderId: "PZA010",
@@ -78,7 +77,7 @@ const pizzaOrdersData = [
     pizzaType: "Supreme",
     quantity: 2,
     orderDate: "2024-05-23 19:15",
-    status: "Delivered"
+    status: "Delivered",
   },
   {
     orderId: "PZA011",
@@ -86,7 +85,7 @@ const pizzaOrdersData = [
     pizzaType: "Mushroom",
     quantity: 1,
     orderDate: "2024-05-22 16:55",
-    status: "Cancelled"
+    status: "Cancelled",
   },
   {
     orderId: "PZA012",
@@ -94,7 +93,7 @@ const pizzaOrdersData = [
     pizzaType: "Pepperoni & Jalapeño",
     quantity: 2,
     orderDate: "2024-05-24 18:20",
-    status: "Out for Delivery"
+    status: "Out for Delivery",
   },
   {
     orderId: "PZA013",
@@ -102,7 +101,7 @@ const pizzaOrdersData = [
     pizzaType: "BBQ Chicken",
     quantity: 3,
     orderDate: "2024-05-21 13:10",
-    status: "Delivered"
+    status: "Delivered",
   },
   {
     orderId: "PZA014",
@@ -110,7 +109,7 @@ const pizzaOrdersData = [
     pizzaType: "Veggie Supreme",
     quantity: 1,
     orderDate: "2024-05-20 17:45",
-    status: "Delivered"
+    status: "Delivered",
   },
   {
     orderId: "PZA015",
@@ -118,7 +117,7 @@ const pizzaOrdersData = [
     pizzaType: "Meat Lovers",
     quantity: 2,
     orderDate: "2024-05-24 20:05",
-    status: "Preparing"
+    status: "Preparing",
   },
   {
     orderId: "PZA016",
@@ -126,7 +125,7 @@ const pizzaOrdersData = [
     pizzaType: "Margherita",
     quantity: 1,
     orderDate: "2024-05-23 15:30",
-    status: "Out for Delivery"
+    status: "Out for Delivery",
   },
   {
     orderId: "PZA017",
@@ -134,7 +133,7 @@ const pizzaOrdersData = [
     pizzaType: "Hawaiian",
     quantity: 1,
     orderDate: "2024-05-22 14:50",
-    status: "Delivered"
+    status: "Delivered",
   },
   {
     orderId: "PZA018",
@@ -142,7 +141,7 @@ const pizzaOrdersData = [
     pizzaType: "Cheese",
     quantity: 3,
     orderDate: "2024-05-24 11:25",
-    status: "Pending"
+    status: "Pending",
   },
   {
     orderId: "PZA019",
@@ -150,7 +149,7 @@ const pizzaOrdersData = [
     pizzaType: "Buffalo Chicken",
     quantity: 2,
     orderDate: "2024-05-21 19:40",
-    status: "Delivered"
+    status: "Delivered",
   },
   {
     orderId: "PZA020",
@@ -158,8 +157,8 @@ const pizzaOrdersData = [
     pizzaType: "Supreme",
     quantity: 1,
     orderDate: "2024-05-20 12:15",
-    status: "Delivered"
-  }
+    status: "Delivered",
+  },
 ];
 
 export default pizzaOrdersData;

@@ -6,7 +6,7 @@ import Link from "next/link";
 const Sidebar = () => {
 
   return (
-    <div className="bg-gray-800 text-white p-4 min-h-screen w-90 fixed">
+    <div className="bg-gray-800 text-white p-4 min-h-screen w-90 md:w-30 relative">
       <div className="text-xl font-bold mb-8 p-2">Pizza Dashboard</div>
       <nav>
         <ul className="space-y-2">
